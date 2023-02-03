@@ -1,0 +1,48 @@
+.features-boxed {
+  background: rgb(20, 21, 26) !important;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  border-radius: .5rem;
+}
+
+h1 {
+  font-size: 24px;
+  font-family: 'Proxima Nova';
+  color: #E6E8EA !important;
+  margin-left: 2.4rem;
+}
+
+p {
+  color: rgb(118, 128, 143) !important;
+  font-family: 'Proxima Nova';
+  margin-bottom: 2rem;
+}
+
+#page-top {
+  background: rgb(30, 32, 38) !important;
+  height: 100%;
+}
+
+#sidebar-wrapper {
+  background: rgb(20, 21, 26) !important;
+}
+
+.navbar {
+  background: rgb(20, 21, 26) !important;
+}
+
+#dashbox {
+  background: rgb(30, 32, 38) !important;
+  border-radius: .5rem;
+  height: 10rem;
+  padding-top: 10px;
+  border: 10px none var(--bs-red);
+}
+
+#graphbox {
+  background: rgb(30, 32, 38) !important;
+  border-radius: .5rem;
+}
+
